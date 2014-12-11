@@ -1,0 +1,4 @@
+alias hith='./sockClient.rb -s hello -l'
+alias hithp='./sockClient.rb -s hello -l pierre &'
+alias spk='./sockClient.rb -s spkroom -l pierre -t hhelo'
+alias spku='./sockClient.rb -s spkuser -l pierre -d pierre1 -t hhelo'
